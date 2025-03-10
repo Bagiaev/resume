@@ -15,8 +15,9 @@
 - Базовое знание Telegram-ботов
 
 ## 🎯 Стек (по 5 балльной шкале)
-- Языки программирования: Python-5, Golang-2, html & css & javascript-3
-###**Data Science & Machine Learning** 
+- Языки программирования: Python-5, Golang-2, html & css & javascript-3  
+
+**Data Science & Machine Learning** 
 - Python (Numpy, pandas, SciPy, scikit-learn) 
 - Машинное обучение (scikit-learn, XGBoost, LightGBM, CatBoost)
 - Deep learning (Tensorflow, PyTorch)
@@ -25,10 +26,12 @@
 - PostgreSQL
 - Работа с изоображениям (OpenCV, PIL)
 - Графы знаний, рекомендательные системы
-- NLP (Word2Vec, spaCy, transformers)
-###**Веб-разработка**
-- Frontend (html, css, javascript, React)
-###**Инструменты разработки**
+- NLP (Word2Vec, spaCy, transformers)  
+  
+**Веб-разработка**
+- Frontend (html, css, javascript, React)  
+  
+**Инструменты разработки**
 - Git, GitHub
 - Google Colab, jupiter notebook, VS Code
 
