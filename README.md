@@ -15,7 +15,7 @@
 - Базовое знание Telegram-ботов
 
 ## 🎯 Стек (по 5 балльной шкале)
-- Языки программирования: Python-5, Golang-2, html & css & javascript-3  
+- Языки программирования: Python-5, Golang-3.5, html & css & javascript-3  
 
 **Data Science & Machine Learning** 
 - Python (Numpy, pandas, SciPy, scikit-learn) 
@@ -45,6 +45,7 @@
 | [`project4`](project4/README.md) | Сравнивание нейронных моделей |
 | [`matstat`](matstat/README.md) | Некоторые работы по математической статистике и теории вероятностей |
 | [`project5`](project5/README.md) | ML в задачах обработки финансовой и экономической информации |
+| [`project6`](https://github.com/Bagiaev/Notes_Service) | Golang backand мини-приложение сервиса с заметками |
 
 ## 📚 Образование  
 🎓 [Финансовый университет при Правительстве РФ], [Факультет: ИТиАБД/Специальность: Data Science,Аналитика данных]  
